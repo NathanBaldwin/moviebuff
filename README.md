@@ -4,13 +4,13 @@ Completed as a group project (team of 3) at Nashville Software School, Movie Buf
 
 ## How It Works
 
-### Create an Account
+#### Create an Account
 
 Visit www.onlinemoviecollection.com to create an account.
 
 Important note: THIS APP IS NOT SECURE. Please use a fake email address and password to register.
 
-### Search for Movies
+#### Search for Movies
 
 Once logged in, use the search bar in the top left corner to find any movie contained in the IMDB database. Enter the title of the movie you wish to find, and hit 'enter'. Any movie title in the IMDB database containing the word(s) in your search criteria will be returned. For instance, if you search 'jaws', all movies containing the word 'jaws' in the title will be returned.
 
@@ -18,7 +18,7 @@ Movies that have already been added to your collection will also apear if they m
 
 Click the 'Add' button to add any movie your collection.
 
-### Navigation Options
+#### Navigation Options
 
 Use the navigation options in the upper left corner to view all your movies in your collection, only 'unwatched' movies, or only the movies you've designated as 'watched'.
 
@@ -27,7 +27,7 @@ Use the navigation options in the upper left corner to view all your movies in y
 Once you have added a movie to your collection and clicked the 'Watched' button underneath it, you will be able to rank that movie on a scale of 1-10.
 
 
-### Filter by Ranking
+#### Filter by Ranking
 
 While on the 'All' or 'Watched' pages, you can use the slider to filter any movies you have already ranked.
 
