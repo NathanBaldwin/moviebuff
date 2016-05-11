@@ -22,7 +22,7 @@ Click the 'Add' button to add any movie your collection.
 
 Use the navigation options in the upper left corner to view all your movies in your collection, only 'unwatched' movies, or only the movies you've designated as 'watched'.
 
-### Rate Movies
+#### Rate Movies
 
 Once you have added a movie to your collection and clicked the 'Watched' button underneath it, you will be able to rank that movie on a scale of 1-10.
 
